@@ -1,0 +1,23 @@
+{
+  "name": "remarkable-tablet-api",
+  "version": "1.0.0",
+  "description": "Interact with the ReMarkable tablet cloud",
+  "main": "index.js",
+  "author": "Owen Trueblood",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmptable/remarkable-tablet-api.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.1"
+  },
+  "dependencies": {
+    "node-fetch": "^2.2.0",
+    "uuid4": "^1.1.4"
+  }
+}
